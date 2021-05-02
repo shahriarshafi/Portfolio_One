@@ -70,7 +70,7 @@ const HeaderMain = () => {
                                     <h4>I'm a</h4>
                                     <h1 class="mb-5">
                                         <Typical
-                                            steps={['Front-End Web Developer', 1000, 'Programmer', 1000, 'Gamer', 1000, 'Learner', 1000]}
+                                            steps={['Front-End Web Developer', 1000, 'Programmer', 1000, 'Learner', 1000]}
                                             loop={Infinity}
                                             wrapper="b"
                                         />
