@@ -17,7 +17,7 @@ const Blogs = () => {
                                 <div class="card-body text-center">
                                     <h5 class="card-title">Hire Me</h5>
                                     <p class="card-text">A ride sharing website.</p>
-                                    <a href="#" class="btn btn-primary">Read More</a>
+                                    <a href="" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -27,7 +27,7 @@ const Blogs = () => {
                                 <div class="card-body text-center">
                                     <h5 class="card-title ">Mobile Repair</h5>
                                     <p class="card-text">A Mobile Repair Services!!</p>
-                                    <a href="#" class="btn btn-primary">Read More</a>
+                                    <a href="" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -37,7 +37,7 @@ const Blogs = () => {
                                 <div class="card-body text-center">
                                     <h5 class="card-title">Big Bazar</h5>
                                     <p class="card-text">A bazar where you can buy your desired products.</p>
-                                    <a href="#" class="btn btn-primary">Read More</a>
+                                    <a href="" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div> 

@@ -5,10 +5,7 @@ import {
   Route
 } from "react-router-dom";
 import './App.css';
-import About from "./Components/About/About";
-import Blogs from "./Components/Blogs/Blogs";
 import Home from "./Components/Home/Home";
-import Projects from "./Components/Projects/Projects";
 
 function App() {
   return (
