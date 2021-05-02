@@ -19,13 +19,13 @@ const About = () => {
                                 <img src={pic} class="img-fluid img-resize rounded-circle" alt="" />
                                 <div class="mt-3 p-2 d-flex justify-content-center">
                                     <div class="me-3">
-                                        <a target="_blank" class="btn btn-light" href="https://www.facebook.com/"><FontAwesomeIcon icon={faFacebook} size="2x" /></a>
+                                        <a  class="btn btn-light" href="https://www.facebook.com/"><FontAwesomeIcon icon={faFacebook} size="2x" /></a>
                                     </div>
                                     <div class="me-3">
-                                        <a target="_blank" class="btn btn-light" href="https://github.com/"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
+                                        <a  class="btn btn-light" href="https://github.com/"><FontAwesomeIcon icon={faGithub} size="2x" /></a>
                                     </div>
                                     <div class="me-3">
-                                        <a target="_blank" class="btn btn-light" href="https://www.linkedin.com/"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
+                                        <a  class="btn btn-light" href="https://www.linkedin.com/"><FontAwesomeIcon icon={faLinkedin} size="2x" /></a>
                                     </div>
                                 </div>
                                 <h4>I’m a self-taught web developer. Seeking a challenging yet rewarding career with a progressive organization that provides the opportunity for development. Hardwork and Honesty is my policy.</h4>

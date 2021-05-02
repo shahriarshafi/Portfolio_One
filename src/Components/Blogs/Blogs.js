@@ -1,5 +1,4 @@
 import React from 'react';
-import chanderHut from '../../images/chander hut.png';
 import './Blogs.css';
 import hireMe from '../../images/img-1.png';
 import repair from '../../images/img-2.png'
@@ -18,7 +17,7 @@ const Blogs = () => {
                                 <div class="card-body text-center">
                                     <h5 class="card-title">Hire Me</h5>
                                     <p class="card-text">A ride sharing website.</p>
-                                    <a class="btn btn-primary">Read More</a>
+                                    <a href="#" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -28,7 +27,7 @@ const Blogs = () => {
                                 <div class="card-body text-center">
                                     <h5 class="card-title ">Mobile Repair</h5>
                                     <p class="card-text">A Mobile Repair Services!!</p>
-                                    <a class="btn btn-primary">Read More</a>
+                                    <a href="#" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -38,7 +37,7 @@ const Blogs = () => {
                                 <div class="card-body text-center">
                                     <h5 class="card-title">Big Bazar</h5>
                                     <p class="card-text">A bazar where you can buy your desired products.</p>
-                                    <a class="btn btn-primary">Read More</a>
+                                    <a href="#" class="btn btn-primary">Read More</a>
                                 </div>
                             </div>
                         </div> 
