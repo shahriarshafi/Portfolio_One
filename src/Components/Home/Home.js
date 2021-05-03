@@ -8,6 +8,7 @@ import Projects from '../Projects/Projects';
 import Aos from "aos";
 import "aos/dist/aos.css";
 import './Home.css';
+import Footer from '../Footer/Footer';
 
 
 const Home = () => {
@@ -28,8 +29,11 @@ const Home = () => {
                 <div data-aos="fade-right" className="boxes">
                 <About />
                 </div>
-                <div data-aos="flip-right" className="boxes">
+                <div data-aos="zoom-in-down" className="boxes">
                 <Contact />
+                </div>
+                <div>
+                <Footer/>
                 </div>
                 
             </div>

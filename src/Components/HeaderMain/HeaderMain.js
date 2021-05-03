@@ -7,7 +7,7 @@ import Particles from 'react-particles-js';
 const HeaderMain = () => {
     return (
         <>
-            <section class=" bg-dark text-white">
+            <section class=" bg-warning text-dark">
                 <div className="container-fluid">
                     <div className="row">
                         <div className="col-md-12">

@@ -6,7 +6,7 @@ const Contact = () => {
     function sendEmail(e) {
         e.preventDefault();
 
-        emailjs.sendForm('service_4wvjdln', 'template_o04hp5i', e.target, 'user_WlpAeWLFXfOuk29xIN5xd')
+        emailjs.sendForm('service_4vtfxdf', 'template_dxwv2xh', e.target, 'user_puw3wIsksmheWNh8v6IkX')
             .then((result) => {
                 console.log(result.text);
             }, (error) => {
@@ -18,7 +18,7 @@ const Contact = () => {
     return (
         <>
             <section id="contact">
-                <div className="container bg-dark text-white rounded-3 mb-5">
+                <div className="container bg-warning text-dark rounded-3 mb-5">
                     <div className="row">
                         <div className="col-md-12">
                             <h1 class="text-center my-5">Contact</h1>
